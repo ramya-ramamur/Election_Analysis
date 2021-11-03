@@ -1,5 +1,5 @@
 # Election_Analysis
-## Project Overview
+## Overview of Election
 A Colorado Board of Elections wants to complete the election audit of the local congressional precinct election. They want to know the following;
 1. The total number of votes cast.
 2. The list of candidates who received votes
@@ -10,5 +10,4 @@ A Colorado Board of Elections wants to complete the election audit of the local 
  - Data Source: election_results.csv
  - Software: Python 3.8.8, Visual Strudio Code 1.61.2
  
-## Summary
-The analysis of the election show that
+## Election Audit Results
