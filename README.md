@@ -15,12 +15,12 @@ A Colorado Board of Elections wants to complete the election audit of the local 
 ![Screen Shot 2021-11-03 at 4 28 01 PM](https://user-images.githubusercontent.com/75961057/140232752-aecc39d9-ab01-44f1-bedf-0b6b92f6b3bf.png)
 
 ## Election-Audit Summary
-The Colorado Board of Election can use the python code used to analyse this dataset for any election as long as the data is captured and stored in the same way as in election_results.csv. as follows:
+The Colorado Board of Election can use the python code in PyPoll_Challenge.py used to analyse this dataset for any election as long as the data is captured and stored in the same way as in election_results.csv. as follows:
  - Ballot ID	
  - Location (In this dataset, it is County)
  - Candidate
 
-Modifications to the code should be made at the following lines of code
+Modifications should be made at the following lines of code
 
 1.The path to load and read the .csv (dataset) file and the path to store the .txt (analysis results) file 
 
